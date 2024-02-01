@@ -1,0 +1,14 @@
+D:\Lessons\1 Семместр Основной блок\Знакомство с языками программирования\Homeworks\HomeWork7\bin\Debug\net8.0\HomeWork7.exe
+D:\Lessons\1 Семместр Основной блок\Знакомство с языками программирования\Homeworks\HomeWork7\bin\Debug\net8.0\HomeWork7.deps.json
+D:\Lessons\1 Семместр Основной блок\Знакомство с языками программирования\Homeworks\HomeWork7\bin\Debug\net8.0\HomeWork7.runtimeconfig.json
+D:\Lessons\1 Семместр Основной блок\Знакомство с языками программирования\Homeworks\HomeWork7\bin\Debug\net8.0\HomeWork7.dll
+D:\Lessons\1 Семместр Основной блок\Знакомство с языками программирования\Homeworks\HomeWork7\bin\Debug\net8.0\HomeWork7.pdb
+D:\Lessons\1 Семместр Основной блок\Знакомство с языками программирования\Homeworks\HomeWork7\obj\Debug\net8.0\HomeWork7.GeneratedMSBuildEditorConfig.editorconfig
+D:\Lessons\1 Семместр Основной блок\Знакомство с языками программирования\Homeworks\HomeWork7\obj\Debug\net8.0\HomeWork7.AssemblyInfoInputs.cache
+D:\Lessons\1 Семместр Основной блок\Знакомство с языками программирования\Homeworks\HomeWork7\obj\Debug\net8.0\HomeWork7.AssemblyInfo.cs
+D:\Lessons\1 Семместр Основной блок\Знакомство с языками программирования\Homeworks\HomeWork7\obj\Debug\net8.0\HomeWork7.csproj.CoreCompileInputs.cache
+D:\Lessons\1 Семместр Основной блок\Знакомство с языками программирования\Homeworks\HomeWork7\obj\Debug\net8.0\HomeWork7.dll
+D:\Lessons\1 Семместр Основной блок\Знакомство с языками программирования\Homeworks\HomeWork7\obj\Debug\net8.0\refint\HomeWork7.dll
+D:\Lessons\1 Семместр Основной блок\Знакомство с языками программирования\Homeworks\HomeWork7\obj\Debug\net8.0\HomeWork7.pdb
+D:\Lessons\1 Семместр Основной блок\Знакомство с языками программирования\Homeworks\HomeWork7\obj\Debug\net8.0\HomeWork7.genruntimeconfig.cache
+D:\Lessons\1 Семместр Основной блок\Знакомство с языками программирования\Homeworks\HomeWork7\obj\Debug\net8.0\ref\HomeWork7.dll
